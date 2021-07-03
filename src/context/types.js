@@ -1,0 +1,12 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILD = 'LOGIN_FAILD';
+export const GET_STUDENT = "GET_STUDENT";
+export const FAILD_GET_STUDENT = "FAILD_GET_STUDENT";
+
+export const SET_LOADING = "SET_SET_LOADING";
+export const GET_ALL_CARDS = "GET_ALL_CARDS";
+export const FAILD_ALL_CARDS = "FAILD_ALL_CARDS";
+
+export const GET_LEADER_BOARD = "GET_LEADER_BOARD";
+export const FAILD_LEADER_BOARD = "FAILD_LEADER_BOARD";
+
